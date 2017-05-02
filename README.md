@@ -10,7 +10,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 ```
 > git clone https://github.com/nduykhanh/react-redux-weather.git
-> cd react-redux-book-list
+> cd react-redux-weather
 > npm install
 > npm start
 ```
